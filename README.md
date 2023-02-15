@@ -18,11 +18,11 @@ This app works in conjunction with [QT_Driver App](https://github.com/Letticonio
 - Connect both the QT_Driver and QT_Passengers app to the same Firebase project.
 
 ## Team:
-- [Akhand-Pratap-Tiwari (Myself)](https://github.com/Akhand-Pratap-Tiwari)
+- [Akhand-Pratap-Tiwari](https://github.com/Akhand-Pratap-Tiwari)
 - [Abdev1205](https://github.com/Abdev1205)
 - [divyanshbhilware](https://github.com/divyanshbhilware)
 - [siddhi-rai](https://github.com/siddhi-rai)
-- [AnupamDB](https://github.com/AnupamDB) 
+- [AnupamDB (Myself)](https://github.com/AnupamDB) 
 
 ## Links
 - https://firebase.google.com/docs/
